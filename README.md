@@ -1,4 +1,4 @@
-# 🥗 Diet Fitness Tracker: Your Path to a Healthier You\! 💪
+# 🥗 Diet Fitness Tracker: Your Path to a Healthier You 💪
 
 A sleek, web-based application to empower users in tracking their nutrition, exercise, and health progress. Crafted collaboratively by a team of four developers for an academic source code management assignment, this project showcases modular design, seamless teamwork, and professional documentation.
 
